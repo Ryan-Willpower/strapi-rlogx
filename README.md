@@ -1,3 +1,3 @@
-# Strapi application
+# R log x CMS
 
-A quick description of your strapi application
+Backend for rlogx
